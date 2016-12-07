@@ -1,1 +1,1 @@
-basemap  --allow-external basemap --allow-unverified basemap
+basemap-1.0.8
