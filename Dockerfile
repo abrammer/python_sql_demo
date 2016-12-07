@@ -3,5 +3,5 @@
 USER main
 
 # Update conda.
-RUN CONDA install basemap
+RUN conda install -c anaconda basemap=1.0.7
 
