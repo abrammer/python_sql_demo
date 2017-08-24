@@ -1,3 +1,8 @@
+FROM andrewosh/binder-base
+
+MAINTAINER Alan Brammer <someemail@gmail.com>
+
+USER main
 
 
 #USER main
