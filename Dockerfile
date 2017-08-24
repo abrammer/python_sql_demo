@@ -1,4 +1,4 @@
-FROM andrewosh/binder-base
+FROM abrammer/python_sql_demo
 
 MAINTAINER Alan Brammer <someemail@gmail.com>
 
